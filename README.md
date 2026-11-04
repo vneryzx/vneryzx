@@ -10,7 +10,7 @@ Me chamo Vinicius Nery, tenho 18 anos e pretendo estudar ADS na unicamp, sou est
  
 #
 
-<img align="right" alt="" height="190px" src="./src/finger.gif">
+<img align="right" alt="" height="190px" src="./src/trilharede.gif">
 
 <h3 align="left">Connect with me! </h3>
 
