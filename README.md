@@ -57,6 +57,16 @@ Me chamo Vinicius Nery, tenho 18 anos e pretendo estudar ADS na unicamp, sou est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" 
+          
+/>
+
 <br/>
 <br/>
 
