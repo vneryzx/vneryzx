@@ -12,7 +12,7 @@ Me chamo Vinicius Nery, tenho 18 anos e pretendo estudar ADS na unicamp, sou est
 
 <img align="right" alt="" height="190px" src="./src/finger.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect with me! </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vininesi@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.instagram.com/nery.vns/)
