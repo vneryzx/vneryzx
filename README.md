@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Vinicius Nery, tenho 18 anos e pretendo estudar ADS na unicamp, sou estudante sem experiencia
+My name is Vinicius Nery, I'm 18 years old, and I plan to study Systems Analysis and Development at UNICAMP. I'm currently taking a course provided by Itaú Bank on DIO about Java with Artificial Intelligence.
  
 #
 
