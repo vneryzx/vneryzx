@@ -10,7 +10,7 @@ My name is Vinicius Nery, I'm 18 years old, and I plan to study Systems Analysis
  
 #
 
-<img align="right" alt="" height="190px" src="./src/trilharede.gif">
+<img align="right" alt="" height="190px" src="./src/core.gif">
 
 <h3 align="left">Connect with me! </h3>
 
